@@ -19,7 +19,7 @@ PORT=5000
 ```
 4. Start the server:
 ```bash
-node serer.js
+node server.js
 ```
 ### Frontend
 1. Navigate to project folder:
